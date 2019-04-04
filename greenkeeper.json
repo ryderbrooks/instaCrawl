@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "lib/instaCrawl/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
