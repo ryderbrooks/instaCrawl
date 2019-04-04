@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "amqplib": "^0.4.2",
+    "amqplib": "^0.5.3",
     "redis": "^2.6.2",
     "underscore": "^1.8.3",
-    "phantom": "^2.1.20",
+    "phantom": "^6.2.0",
     "neo4j-driver": "^1.0.3"
   }
 }
